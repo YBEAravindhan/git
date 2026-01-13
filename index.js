@@ -1,8 +1,7 @@
 console.log("Welcome to the git course");
 
-for (let i = 0; i < 5; i++) {
-
-    console.log("code");
-    
+for (let index = 0; index < 5; index++) {
+   console.log("Code io ");
+   
     
 }
