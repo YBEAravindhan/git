@@ -2,4 +2,4 @@
 
 This is a complete git course 
 
-# This is a change from Feature branch
+# This is change from Bug branch
